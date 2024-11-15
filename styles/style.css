@@ -1,0 +1,19 @@
+.body{
+    color: white;
+    background-color: #075061;
+    text-align: center;
+}
+.box{
+    height: 120px;
+    width: 400px;
+    background-color: burlywood;
+    color: white;
+}
+.lp1{
+    text-align: initial;
+    color: white;
+}
+.lp{
+    text-align: right;
+    color: white;
+}
